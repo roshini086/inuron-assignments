@@ -1,2 +1,2 @@
-# inuron-assignments
+# ineuron-assignments
 "hello world"
